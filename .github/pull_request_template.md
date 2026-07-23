@@ -37,7 +37,7 @@ Feel free to tag members/contributors who may be interested in your PR.
 - Optimum: @echarlaix
 - Tokenizers: @n1t0, @Narsil
 - Benchmarks: @patrickvonplaten
-
+2a0e915274c7ca06e06755ceea1bba70d9fcdd6f
 `huggingface_hub`: @muellerzr, @LysandreJik
 
 `longform_qa`: @yjernite
